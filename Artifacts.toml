@@ -1,0 +1,252 @@
+[[GMAT]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b021c2ec41bab3d241fc5b16476cbfcbecbdfcce"
+libc = "glibc"
+os = "linux"
+
+    [[GMAT.download]]
+    sha256 = "d2236f2eb5e6376e104c94b4279c14a3c0d1692cd88264be9b86e5a21cd4bb28"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[GMAT]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dff1c4ce53ef1c1d6d81ac390e8390d34189dc60"
+libc = "glibc"
+os = "linux"
+
+    [[GMAT.download]]
+    sha256 = "b602be3f879026704246e552d242c6d7d4ecf9b23108cf96b1e2fda3b913ba60"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[GMAT]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "525e815d0e9f83d8860ea4dce708748676592160"
+libc = "musl"
+os = "linux"
+
+    [[GMAT.download]]
+    sha256 = "59bd4a4e7675e1e25998566b33ca88ce81ab1cef30141a1f9a4d93d580ad58ac"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[GMAT]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2d2defab0e415450cc5716a7496a59fdd13dff0a"
+libc = "musl"
+os = "linux"
+
+    [[GMAT.download]]
+    sha256 = "f005921c56e5229d5151dbf523141d490958e901a08f0fdaa46486e3d45a25c2"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[GMAT]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3d6f19bcb41ca6cf2d23fcf825a762a13e37375d"
+libc = "glibc"
+os = "linux"
+
+    [[GMAT.download]]
+    sha256 = "c47219cce35facf11e46859ae5f52a1a98a2fad9157e2d140cecd3e38fa4b547"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[GMAT]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bccf89f22966f7c8245708cc1c8955027918ba78"
+libc = "glibc"
+os = "linux"
+
+    [[GMAT.download]]
+    sha256 = "d96aa627d82db3230a6989d9e37c4a9a1e0e37333e6cc9d3b4b4fff8c1efb352"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[GMAT]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8c9631fd70608f6e74fc05bee85f06c91d1c3a31"
+libc = "musl"
+os = "linux"
+
+    [[GMAT.download]]
+    sha256 = "de2db9ccba3304459476c041e4bc74d792b408bdb5cc7a8ec7bd9fef53b93b11"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[GMAT]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e10f0b7640aa7eff68d176d53ce13f8afff8756a"
+libc = "musl"
+os = "linux"
+
+    [[GMAT.download]]
+    sha256 = "ffebd681f10f4ffb7adb53b48c42177229d0d09649480101ec560e39eeb6409b"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[GMAT]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f1535d3bbcc96db761911a40797ae6ab1baa6e59"
+libc = "glibc"
+os = "linux"
+
+    [[GMAT.download]]
+    sha256 = "2c9b3d0a5662befee326e01667739f6fd628879bdaf893f69e516cbe5c83e7f3"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[GMAT]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4bba5750da5d3bae806cc367e68024db253f796f"
+libc = "glibc"
+os = "linux"
+
+    [[GMAT.download]]
+    sha256 = "685e41a59fb84d8ec548be390ea92951c017fc0481ff46bc01fc427430e3fefd"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[GMAT]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c0a8b2825c36253026ee7a19d544ff766e1a1b07"
+libc = "musl"
+os = "linux"
+
+    [[GMAT.download]]
+    sha256 = "c5b627e71dbf7e9328c1cd769fe97af23ccb4391550403cfde65de53530543c6"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.i686-linux-musl-cxx03.tar.gz"
+[[GMAT]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ec34f1aeaed488964844d946206ca488b054c381"
+libc = "musl"
+os = "linux"
+
+    [[GMAT.download]]
+    sha256 = "aa2b688421d6596813dc6e88dbd0d39ae27352b70fbf867636a90e14ff4c2dea"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.i686-linux-musl-cxx11.tar.gz"
+[[GMAT]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3dd1c1dc165bfb5485a731bf1113e5783f011e49"
+os = "windows"
+
+    [[GMAT.download]]
+    sha256 = "dd288bc9a85d54fc429758f07fa0736a7ec4553801a6e8fd5f68c2c5186019c1"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.i686-w64-mingw32-cxx03.tar.gz"
+[[GMAT]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "485796d571af66691d8803dfb02b9cfda55e84b9"
+os = "windows"
+
+    [[GMAT.download]]
+    sha256 = "3bd6b67a7e1ab1f81d54d6e9daf4081e78c040eddfe0317c22bc04e8334fb4c2"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.i686-w64-mingw32-cxx11.tar.gz"
+[[GMAT]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f2c07f1114be97e6d88063b15537bdaaa5dab0cd"
+libc = "glibc"
+os = "linux"
+
+    [[GMAT.download]]
+    sha256 = "da055a5c5275030007ea0af4f25e810a032c89de7ef313ab0adc33bc46725b30"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[GMAT]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0c144caea7a0d2af7ff764680e46380a33309fd7"
+libc = "glibc"
+os = "linux"
+
+    [[GMAT.download]]
+    sha256 = "0d0527333819b4d4d45abf9d63e77440a1a45ed6f4e95362a22f5c23a8c26413"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[GMAT]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9787d010ab6390656b54ed2a62a6b51415ecbd06"
+os = "macos"
+
+    [[GMAT.download]]
+    sha256 = "35f0e4aa29b379178db1487e1bd8ad06076a09b08876ef74a6d82d8b095ca694"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.x86_64-apple-darwin14-cxx03.tar.gz"
+[[GMAT]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "500b8b1b123cdb94a10792de3cb322b854ae1cc8"
+os = "macos"
+
+    [[GMAT.download]]
+    sha256 = "95160eba3f00e470b9d49ad19eeb29d71e427183255c6ceab1a31232853c95f0"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.x86_64-apple-darwin14-cxx11.tar.gz"
+[[GMAT]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3b897e34d372ee2cbe6e8808e0e07af779f6c67e"
+libc = "glibc"
+os = "linux"
+
+    [[GMAT.download]]
+    sha256 = "ca0714960205ecc2102d9847703f350fce399f4cdf0a27a85495b943c3dd292d"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[GMAT]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "56fbcf4e6bfec68c13ad00514786c3ead16c839d"
+libc = "glibc"
+os = "linux"
+
+    [[GMAT.download]]
+    sha256 = "9992d0c54476c5e7cd6f0aecc53a6a2680a08ea7806bd5a8c4c88c9178dc0508"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[GMAT]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "44313f651cf7c61ce021350614af423abc4c9e8e"
+libc = "musl"
+os = "linux"
+
+    [[GMAT.download]]
+    sha256 = "6ece9a033f78dbcbc066d6e9d09554a43468256692afb6066d181941691a52ee"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[GMAT]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8e6debf0dbeae6a8ce3bd2dc04b59a245902815a"
+libc = "musl"
+os = "linux"
+
+    [[GMAT.download]]
+    sha256 = "fd744159470d03fbeeaea3f0b8cadbb8c5fcbb6bf628799d10ae749d6d25097a"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[GMAT]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a8081a55d502ee00b33a533bdf32cf0dee8460a4"
+os = "freebsd"
+
+    [[GMAT.download]]
+    sha256 = "662cc5cd51c142df1cb317509b6d9649d9327567e2d40c17bcc55345d84ef1ba"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[GMAT]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "37842ab9befc5e16cdad42b7d9bf0f3391f4bdec"
+os = "freebsd"
+
+    [[GMAT.download]]
+    sha256 = "73193f078cd4abcd1ef72fe557c5de0661bec0b89011cf1e58bd036fd45aa704"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+[[GMAT]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "03ff80825194598090ec339ef6e5066eb521a705"
+os = "windows"
+
+    [[GMAT.download]]
+    sha256 = "b3376fbe49f9146f2c730bb39e2e5b1cb004cdbeb1827ddf0caa61d907609584"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[GMAT]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b0c71cff626bb2c0cb673afcc8f9e9432daf31c2"
+os = "windows"
+
+    [[GMAT.download]]
+    sha256 = "db62cf98a925b5c22ef9d5f85f952e86b16a2a8df45e54ce874a3c685489392b"
+    url = "https://github.com/JuliaBinaryWrappers/GMAT_jll.jl/releases/download/GMAT-v2020.0.0+0/GMAT.v2020.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
